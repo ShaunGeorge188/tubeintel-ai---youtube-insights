@@ -29,5 +29,5 @@ View your app in AI Studio: https://ai.studio/apps/drive/1ncG63xoDAQSs2sBpxogeBI
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` and `YOUTUBE_API_KEY` in `.env.local` to your Gemini and YouTube API keys
-3. Run the app:
-   `npm run dev`
+3. YouTube API key: AIzaSyBxBHgnEkZVPK3JXzhkbJx1hAyHOi7zLoE
+
